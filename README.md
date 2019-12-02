@@ -8,3 +8,4 @@
 ### Sample-based Learning Method
 * [week2-BlackJack with MC](sample-based_learning/week2-blackjack.ipynb)
 * [week3-CliffWalk with TD0](sample-based_learning/week3-td0-v4.ipynb)
+* [week4-CliffWalk with Q-Learning and Expected Sarsa](sample-based_learning/week4-qLearning-expectedSARSA_v6.ipynb)
