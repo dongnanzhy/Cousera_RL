@@ -10,3 +10,7 @@
 * [week3-CliffWalk with TD0](sample-based_learning/week3-td0-v4.ipynb)
 * [week4-CliffWalk with Q-Learning and Expected Sarsa](sample-based_learning/week4-qLearning-expectedSARSA_v6.ipynb)
 * [week5-Change of environment with Dyna-Q planning](sample-based_learning/week5-DynaQ-Planning-v2.ipynb)
+
+
+### Prediction and Control with Function Approximation
+* [week1-on policy approximation for predcition](function_approximation/week1-on_policy_approximation-v8.ipynb)
