@@ -14,3 +14,4 @@
 
 ### Prediction and Control with Function Approximation
 * [week1-on policy approximation for predcition](function_approximation/week1-on_policy_approximation-v8.ipynb)
+* [week2-on policy approximation for prediction with NNn](function_approximation/week2-function-approximation-withNN-v7.ipynb)
