@@ -15,5 +15,6 @@
 ### Prediction and Control with Function Approximation
 * [week1-on policy approximation for predcition](function_approximation/week1-on_policy_approximation-v8.ipynb)
 * [week2-on policy approximation for prediction with NN](function_approximation/week2-function-approximation-withNN-v7.ipynb)
-* [week3-Control with approximation](function_approximation/week3-Control-with-approximation-v3.ipynb
+* [week3-Control with approximation](function_approximation/week3-Control-with-approximation-v3.ipynb)
+* [week4-Policy Gradient and Actor Critic](function_approximation/week4-policy_gradietn_actor_critic-v8.ipynb)
 
