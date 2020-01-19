@@ -18,3 +18,5 @@
 * [week3-Control with approximation](function_approximation/week3-Control-with-approximation-v3.ipynb)
 * [week4-Policy Gradient and Actor Critic](function_approximation/week4-policy_gradietn_actor_critic-v8.ipynb)
 
+### Capstone: Moon Landing agent
+* [week2-design reward](capstone_moonLanding/week2-reward_function.ipynb)
